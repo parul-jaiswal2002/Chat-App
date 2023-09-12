@@ -1,0 +1,12 @@
+first we created backend 
+ 1. In backend we created index.js file in which we are creating a socket server
+
+ 2. In fronted first we created UI for chat app
+ and next we did npm i socket.io-client
+
+ then we import this in chatroom component
+ and initialize the socket server
+
+
+ when we have to send ms we will use socket.emit
+ when we have to recieve msg we will use socket.on
